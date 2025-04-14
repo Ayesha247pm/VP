@@ -1,0 +1,34 @@
+using system;
+
+class program
+{
+static void Main (string[])
+{
+//
+Deceleration first then initialization 
+
+int age ;// declare an integer variable
+age = 25;//
+initialization the integer variable
+
+string first name;//
+declare a string variable
+first name = "Ayesha";//
+initialize a string variable
+
+char grade;//
+declare a char variable
+grade = 'A';//
+initialization the char variable 
+
+Console. WriteLine("Declaration then initialization :");
+Console. WriteLine("Age: + age);
+Console. WriteLine("Name:" + first name);
+Console. WriteLine("Grade:" + grade);
+}}
+
+
+
+
+
+   
