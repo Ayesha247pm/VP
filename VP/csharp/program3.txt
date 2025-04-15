@@ -11,7 +11,7 @@ class Variable Demo
         int local Counter = 5;
 
         Console. WriteLine($"Global Counter: {_global Counter}");
-        Console.WriteLine($"Local Counter: {local Counter}");
+        Console. WriteLine($"Local Counter: {local Counter}");
 
         // Update both counters
         local Counter += 1;        // Affects only the local variable
